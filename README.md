@@ -31,7 +31,7 @@ yarn add @heroicons/react
 ```
 
 
-### please visit this like for more infos.
+### please visit this for more infos.
 
 ***Heroicons***
 ```
@@ -43,7 +43,7 @@ https://github.com/tailwindlabs/heroicons
 https://nextjs.org/docs/getting-started
 ```
 
-***tailwindcss** - this is guide to install tailwindcss in next js*
+***tailwindcss** - this is a guide to install tailwindcss in next js*
 ```
 https://tailwindcss.com/docs/guides/nextjs
 ```
